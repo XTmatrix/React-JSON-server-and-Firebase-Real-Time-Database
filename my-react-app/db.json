@@ -1,0 +1,15 @@
+{
+  "users": [],
+  "posts": [
+    {
+      "id": "1",
+      "title": "Hello World",
+      "author": "John"
+    },
+    {
+      "id": "2",
+      "title": "React Basics",
+      "author": "Jane"
+    }
+  ]
+}
